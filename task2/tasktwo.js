@@ -23,3 +23,9 @@ else{
 
 
 // console.log(movies);
+
+function arrayFunc() {
+    console.log(movies);
+}
+
+arrayFunc();
