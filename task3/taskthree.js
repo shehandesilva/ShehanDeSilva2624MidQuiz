@@ -13,3 +13,9 @@ else {
 }
 
 console.log(car.color);
+
+function objectFunc() {
+    console.log(car);
+}
+
+objectFunc();
